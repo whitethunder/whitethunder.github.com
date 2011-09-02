@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Whitethunder</title>
+  <link href="http://thewhitethunder.com/atom.xml" rel="self"/>
+  <link href="http://thewhitethunder.com/"/>
+  <updated>2011-09-01T23:42:59-06:00</updated>
+  <id>http://thewhitethunder.com/</id>
+  <author>
+    <name>Matt White</name>
+    
+  </author>
+
+  
+  <entry>
+    <title>Attracting Talented Rubyists</title>
+    <link href="http://thewhitethunder.com/blog/attracting-talented-rubyists/"/>
+    <updated>2011-08-25T08:28:00-06:00</updated>
+    <id>http://thewhitethunder.com/blog/attracting-talented-rubyists</id>
+    <content type="html">&lt;p&gt;Chances are that if you work with a team that uses &lt;a href=&quot;http://www.ruby-lang.org&quot;&gt;Ruby&lt;/a&gt;, you don't just have trouble finding &lt;em&gt;good&lt;/em&gt; Rubyists, you have trouble finding available Rubyists &lt;em&gt;period&lt;/em&gt;. I attend 2-3 Ruby related conferences per year, and at each one it seems that everyone is employed, most of them happily, and every other presentation someone announces, &quot;I'm from X company and oh by the way WE'RE HIRING OMG PLEASE COME WORK FOR US!!!&quot;&lt;/p&gt;
+
+&lt;p&gt;As a Rubyist, this is awesome. We're in high demand, even in a bad economy. As someone that has assisted in searching for good Rubyists, it's terrible. You spend many weeks and even months searching for just one person who is a cut above the rest. And when you find someone, you know they have many options so no ordinary job offer will do.&lt;/p&gt;
+
+&lt;p&gt;I've been a full-time Rubyist for a few years now. I've worked in circumstances that were awesome and in circumstances that had me looking for any available opportunity to find something better. I want to share what these things were, more or less in order of importance. And while this list is written with the Rubyist in mind, these principles for the most part apply to hiring programmers and retaining them in general.&lt;/p&gt;
+
+&lt;h4&gt;Trust and Ownership&lt;/h4&gt;
+
+&lt;p&gt;A Rubyist doesn't want to be confined to strict orders and processes. He wants to be creative and own his work. Don't micro-manage. It's not going to improve anything. If the thought of a programmer taking creative freedoms is frightening to you, consider how it would feel to have your management style dictated to you. Encouraging programmers to collaborate and solve problems together ought to be enough to alleviate your fears and produce the results that you both want.&lt;/p&gt;
+
+&lt;h4&gt;Profit Sharing/Bonuses&lt;/h4&gt;
+
+&lt;p&gt;Let's be honest, businesspeople. That great idea you have won't go anywhere without someone to market it, sell it, and &lt;em&gt;build it&lt;/em&gt;. You have this great dream of getting rich off of your marvelous idea, but you're not going to do it alone. So share the wealth and a Rubyist will be happy to build awesome things for you. You could try setting up a profit sharing arrangement. You could offer bonuses tied to good performance. You could offer awesome perks like overnight getaways for 2, restaurant gift certificates, bring in a masseuse, etc.&lt;/p&gt;
+
+&lt;h4&gt;Sane Hours&lt;/h4&gt;
+
+&lt;p&gt;Don't make a Rubyist work more than 40 hours a week. If he does it of his own accord, that's probably ok, but make sure that your expectation is limited to 40 hours. You might think to yourself, &quot;Well I've had this guy writing code for me for a year now and he always does 60-80 hour weeks.&quot; And then one day he tells you he's taking a job somewhere else, and the likely reason is because he's burnt out. We may be a little socially awkward sometimes, but we do have lives outside of work, even if that life is playing Starcraft or even watching videos of other people playing Starcraft.&lt;/p&gt;
+
+&lt;h4&gt;Keep them Challenged&lt;/h4&gt;
+
+&lt;p&gt;Along the lines of getting burnt out, a Rubyist wants to be interested in what he's doing. A good way to do this is to give him new challenges. It doesn't have to be constant glamourous work, but if you've got him spending a lot of time cleaning up messes in production or fixing the CI server on a regular basis, you ought to give him a break from it, even if he's the best at it. Let him have a chance at being a project or team lead. Let him refactor or rewrite a poorly-written section of the app between projects. Just don't let him get stuck in a rut that he can't get himself out of or chances are he won't be around very long.&lt;/p&gt;
+
+&lt;h4&gt;Talk to Them&lt;/h4&gt;
+
+&lt;p&gt;When was the last time you asked your developers if they love what they do? Do you have any idea what gets them going each day or what frustrates them? Do you give them regular feedback on their work? Building a relationship where you talk about things like this will go really far with a Rubyist. You can help them improve and they can help you manage better.&lt;/p&gt;
+
+&lt;h4&gt;Be Agile&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://agilemanifesto.org/&quot;&gt;Agile&lt;/a&gt; methodologies are much more programmer-friendly than Waterfall. It also delivers better results faster when followed correctly. If you aren't already Agile, get someone to train you and your team.&lt;/p&gt;
+
+&lt;h4&gt;Training and Conferences&lt;/h4&gt;
+
+&lt;p&gt;Speaking of training, Rubyists want to learn. We don't want to be working the exact same job with the exact same skills for the next 10 years. We're passionate about what we do. We want to get better every day and sending us to trainings and conferences will help us do that and make us happy. Let your team choose what conference they most want to go to and pay for them to go. Your team will learn, bond, get away from the office for a few days, and come back refreshed with new insights.&lt;/p&gt;
+
+&lt;h4&gt;Good Equipment&lt;/h4&gt;
+
+&lt;p&gt;Don't be cheap with the equipment you buy them. Get really good laptops. Get big monitors. Let them choose their preferred peripherals. Get them nice headphones. It's best if you let them choose all their own stuff but if you need to standardize, make sure you standardize on something good.&lt;/p&gt;
+
+&lt;h4&gt;Allow Work-from-home&lt;/h4&gt;
+
+&lt;p&gt;Commuting is a waste of time. We'd rather be writing code. I'm not suggesting that all Rubyists want to work from home all the time, but working from home a day or two a week is a nice break from the commute, or even that annoying PM who always wants to pretend he fits in with the geeks. If you find it a little inconvenient, only allow it on days where it's more convenient.&lt;/p&gt;
+
+&lt;h4&gt;Make Open Source Contributions&lt;/h4&gt;
+
+&lt;p&gt;The Ruby community is all about sharing and giving back. You're using software that is open source at your company. Well, that software didn't magically appear one day. Some generous people gave their time and effort to create it, and now you're benefiting from it financially. Unless you're sending money their way, the best way to pay them back is to open source some of your code. If your company won't or can't do that, then let your Rubyists spend some time making open source contributions to worthy projects of their choice.&lt;/p&gt;
+
+&lt;h4&gt;Don't Use Phrases Like &quot;Rock Star&quot; or &quot;Code Ninja&quot;&lt;/h4&gt;
+
+&lt;p&gt;When you post a job listing for a Rubyist, don't use lame cliche catch phrases. As soon as you start using the average strategies that everyone else uses, you get average Rubyists. Quality Rubyists want to see and do things they haven't done before. Give them a programming challenge or a puzzle to solve or something interesting.&lt;/p&gt;
+
+&lt;h4&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;You might think that a lot of this is expensive or unrealistic, but you're wrong. One great Rubyist can do the work of 5 average Rubyists, but I bet you wouldn't pay him the salary of 5 average Rubyists. He probably wouldn't expect it either, so it's well worth it to do what it takes to make him happy. And once you have a team of happy Rubyists, when you need to find another one, it will be easier to do because we talk about our jobs all the time to other Rubyists. And &lt;a href=&quot;http://www.terrencebrown.net/the-law-of-crappy-people/&quot;&gt;awesome Rubyists tend to talk to other awesome Rubyists&lt;/a&gt;, so your recruiting efforts will become much easier down the road.&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
