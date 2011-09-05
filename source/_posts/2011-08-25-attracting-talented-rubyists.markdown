@@ -5,7 +5,7 @@ date: 2011-08-25 08:28
 comments: true
 categories: [ruby, management]
 ---
-Chances are that if you work with a team that uses [Ruby](http://www.ruby-lang.org), you don't just have trouble finding *good* Rubyists, you have trouble finding available Rubyists *period*. I attend 2-3 Ruby related conferences per year, and at each one it seems that everyone is employed, most of them happily, and every other presentation someone announces, "I'm from X company and oh by the way WE'RE HIRING OMG PLEASE COME WORK FOR US!!!"
+Chances are that if you work with a team that does [Ruby](http://www.ruby-lang.org) development, you don't just have trouble finding *good* Ruby programmers, you have trouble finding available Ruby programmers *period*. I attend 2-3 Ruby programming related conferences per year, and at each one it seems that everyone is employed, most of them happily, and every other presentation someone announces, "I'm from X company and oh by the way WE'RE HIRING OMG PLEASE COME WORK FOR US!!!"
 
 As a Rubyist, this is awesome. We're in high demand, even in a bad economy. As someone that has assisted in searching for good Rubyists, it's terrible. You spend many weeks and even months searching for just one person who is a cut above the rest. And when you find someone, you know they have many options so no ordinary job offer will do.
 
