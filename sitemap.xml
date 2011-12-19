@@ -2,18 +2,22 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://thewhitethunder.com/blog/attracting-talented-rubyists/</loc>
-        <lastmod>2011-09-02T16:08:51-06:00</lastmod>
+        <lastmod>2011-12-19T09:49:26-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://thewhitethunder.com/blog/time-zone-sensitive-code-in-rails/</loc>
+        <lastmod>2011-12-19T10:12:28-07:00</lastmod>
     </url>
     <url>
         <loc>http://thewhitethunder.com/</loc>
-        <lastmod>2011-09-02T16:08:51-06:00</lastmod>
+        <lastmod>2011-12-19T10:12:28-07:00</lastmod>
     </url>
     <url>
         <loc>http://thewhitethunder.com/blog/archives/</loc>
-        <lastmod>2011-09-02T16:08:51-06:00</lastmod>
+        <lastmod>2011-12-19T10:12:28-07:00</lastmod>
     </url>
     <url>
         <loc>http://thewhitethunder.com/about/</loc>
-        <lastmod>2011-09-02T16:21:18-06:00</lastmod>
+        <lastmod>2011-12-19T09:49:26-07:00</lastmod>
     </url>
 </urlset>
